@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+document object
+</title>
+</head>
+<body>
+<h1> document.getElementById</h1>
+<script type = "text/javascript">
+function getadd()
+{
+	var x = document.getElementById("x").value;
+	var y = document.getElementById("y").value;
+	alert(x+y);
+}
+</script>
+<form>
+Enter One No:<input type="text" id="x" name="x"/><br/>
+Enter Another No:<input type="text" id="y" name="y"/><br/>
+<input type="button" onclick="getadd()" value="add"/>
+</form>
+</body>
+</html>
