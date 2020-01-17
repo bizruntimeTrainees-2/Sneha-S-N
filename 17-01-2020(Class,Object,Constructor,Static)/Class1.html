@@ -1,0 +1,30 @@
+<html>
+<head>
+<body>
+
+<script>
+
+var e1 = new Employee(101,"Sneha SN");
+var e2 = new Employee(102,"Shweta SN");
+e1.detail();
+e2.detail();
+
+class Employee
+{
+	constructor(id, name)
+	{
+		this.id = id;
+		this.name = name;
+	}
+
+	detail()
+	{
+		document.writeln(this.id +" "+this.name+"<br>")
+	}
+}
+
+</script>
+
+</body>
+</html>
+<!-- reference error -->

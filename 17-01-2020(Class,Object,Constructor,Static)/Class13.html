@@ -1,0 +1,18 @@
+<html>
+<script>
+var address =
+{
+	Company:"BizRunTime",
+	City:"Bangalore",
+	State:"Karnataka",
+	fullAddress:function()
+	{
+		return this.company+" "+this.city+" "+this.state;
+	}
+};
+
+var fetch = address.fullAddress();
+document.writeln(fetch);
+
+</script>
+</html>
