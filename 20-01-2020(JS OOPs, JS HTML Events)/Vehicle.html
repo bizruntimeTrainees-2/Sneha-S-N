@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+Inheritance Program Example
+</title>
+</head>
+<body>
+
+<script>
+
+function Bike(company)
+{
+	this.company = company;
+}
+
+Bike.prototype.getCompany = function()
+{
+	return this.company;
+}
+
+function Vehicle(name, price)
+{
+	this.name = name;
+	this.price = price;
+}
+
+var bike = new Bike("Honda");
+Vehicle.prototype = bike;//parent of vehicle
+var vehicle = new Vehicle("Suzuki",83000);
+
+document.writeln(vehicle.getCompany() + " " +vehicle.name + " " +vehicle.price);
+
+</script>
+</body>
+</html>
+ 

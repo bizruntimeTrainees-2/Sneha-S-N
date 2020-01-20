@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+Polymorhism Program Example
+</title>
+</head>
+<body>
+
+<script>
+
+class Animal
+{
+	display()
+	{
+		document.writeln("Animal is invoked<br>");
+	}
+}
+
+class Snake extends Animal
+{
+    display()
+	{
+		document.writeln("Snake is invoked<br>");
+	}
+}
+
+var as = [new Animal(), new Snake()] 
+as.forEach(function(msg)
+{
+	msg.display();
+});
+
+</script>
+</body>
+</html>
+ 

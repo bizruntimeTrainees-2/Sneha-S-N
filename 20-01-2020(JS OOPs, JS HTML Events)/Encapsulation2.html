@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>
+Encapsulation Program Example
+</title>
+</head>
+<body>
+
+<script>
+class Student
+{
+	constructor()
+	{
+		var name;
+		var marks;
+	}
+	getName()
+	{
+		return this.name;
+	}
+	setName(name)
+	{
+		this.name = name;
+	}
+
+	getMarks()
+	{
+	    return this.marks;
+	}
+	setMarks(marks)
+	{
+		if(marks<0 || marks>100)
+		{
+			alert("Invalid marks");
+		}
+		else
+		{
+			this.marks = marks;
+		}
+	}
+}
+var std = new Student();
+std.setName("sneha");
+std.setMarks(87);
+document.writeln(std.getName()+" " +std.getMarks());
+
+</script>
+</body>
+</html>

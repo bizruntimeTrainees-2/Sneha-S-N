@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>
+Polymorhism Program Example
+</title>
+</head>
+<body>
+
+<script>
+
+function Animal()
+{
+
+}
+
+Animal.prototype.display = function()
+	{
+		return "Animal is invoked";
+	}
+
+function Snake()
+{
+
+}
+
+Snake.prototype = Object.create(Animal.prototype);
+
+var as = [new Animal(), new Snake()] 
+as.forEach(function(msg)
+{
+	document.writeln(msg.display() + "<br>");
+});
+
+</script>
+</body>
+</html>
+ 
