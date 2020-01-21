@@ -1,0 +1,41 @@
+AJAX(Asynchronus JavaScript And XML)
+------------------------------------
+Definition: Ajax is a set of web development techniques using many web technologies on the client side to create asynchronous web applications.
+*Ajax is not a Programming Language
+
+*Ajax is not a technology but group of inter-related technologies.
+AJAX technologies includes:
+1)HTML/XHTML and CSS
+2)DOM
+3)XML or JSON
+4)XMLHttpRequest
+5)JavaScript
+
+*Synchronous (Classic Web-Application Model)
+A synchronous request blocks the client until operation completes i.e. browser is unresponsive.
+
+*Asynchronous (AJAX Web-Application Model)
+An asynchronous request doesn’t block the client i.e. browser is responsive. At that time, user can perform another operations also.
+
+*XMLHttpRequest:
+---------------
+An object of XMLHttpRequest is used for asynchronous communication between client and server.
+
+It performs following operations:
+
+1)Sends data from the client in the background
+2)Receives the data from the server
+3)Updates the webpage without reloading it.
+
+*AJAX Works:
+------------
+AJAX communicates with the server using XMLHttpRequest object.
+
+XMLHttpRequest object plays a important role:
+
+1)User sends a request from the UI and a javascript call goes to XMLHttpRequest object.
+2)HTTP Request is sent to the server by XMLHttpRequest object.
+3)Server interacts with the database using JSP, PHP, Servlet, ASP.net etc.
+4)Data is retrieved.
+5)Server sends XML data or JSON data to the XMLHttpRequest callback function.
+6)HTML and CSS data is displayed on the browser.
