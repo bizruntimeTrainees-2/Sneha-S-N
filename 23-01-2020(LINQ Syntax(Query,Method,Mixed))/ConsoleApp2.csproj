@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\C#\23-01-2020\ClassProgram.cs" Link="ClassProgram.cs" />
+    <Compile Include="E:\C#\23-01-2020\Employee.cs" Link="Employee.cs" />
+  </ItemGroup>
+
+</Project>

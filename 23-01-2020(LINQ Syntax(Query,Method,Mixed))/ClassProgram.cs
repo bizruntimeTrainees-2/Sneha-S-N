@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ConsoleApp2
+{
+    class ClassProgram
+    {
+        static void Main(string[] args)
+        {
+            List<int> integerList = new List<int>()
+            {
+                1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            };
+
+            var QuerySyntax = from obj in integerList
+            where obj > 5
+            select obj;
+            foreach (var item in QuerySyntax)
+            {
+                Console.Write(item + " ");
+            }
+            Console.ReadKey();
+        }
+    }
+}
