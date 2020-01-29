@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First jQuery Example</title>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"> </script>
+
+<script>     
+$(document).ready(function()
+{  
+	 $("#flip").click(function()
+	{  
+        $("#panel").slideToggle("slow");      
+    });  
+});  
+
+</script>
+<style>
+#panel, #flip
+{
+   padding: 5px;
+   text-align: center;
+   background-color: #00FFFF;
+   border: solid 1px #c3c3c3;
+}
+#panel
+{
+   padding : 50px;
+   display:none;
+}
+</style>
+</head>  
+<body> 
+<div id="flip">Click to slideToggle panel</div>
+<div id="panel">Hello BizRunTime.com!
+It is the best tutorial website to learn jQuery and other languages.</div> 
+</body>
+</html>
