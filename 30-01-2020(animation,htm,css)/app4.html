@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First jQuery Example</title>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"> </script>
+
+<script>     
+$(document).ready(function()
+{  
+	$("button").click(function()
+	{  
+        $("#div1").delay("slow").fadeIn();      
+    });  
+});  
+</script>
+</head>  
+<body> 
+<button>Click me</button>
+<div id="div1" style="background:yellow;height:100px;display:none;; width:100px;"></div> 
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First jQuery Example</title>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"> </script>
+
+<script>     
+$(document).ready(function()
+{  
+	$("button").click(function()
+	{  
+        $("div").animate
+		({
+			height:'toggle'
+		});      
+    });  
+});  
+</script>
+</head>  
+<body> 
+<button>Start Animation</button>
+<p>animation example:</p>
+<div style="background:pink;height:100px; width:100px; position:absolute;"></div> 
+</body>
+</html>

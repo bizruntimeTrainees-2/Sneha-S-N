@@ -1,0 +1,28 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<script src="https://code.jquery.com/jquery-3.4.1.min.js">
+</script>  
+<script>  
+$(document).ready(function()
+{  
+    $("button").click(function()
+	{  
+		var x = $("form").serializeArray();
+		$.each(x, function(i, field)
+		{
+			$("#results").append(field.name + ":" + field.value + " ");
+        });  
+    });  
+});  
+</script>  
+</head>  
+<body> 
+<form action="">
+First name:<input type="text" name="Firstname" value="Sneha"> <br>
+Last name:<input type="text" name="Lastname" value="SN"> <br>
+</form>
+<button>Serialize form values</button>
+<div id = "results"></div>
+</body>  
+</html>  
