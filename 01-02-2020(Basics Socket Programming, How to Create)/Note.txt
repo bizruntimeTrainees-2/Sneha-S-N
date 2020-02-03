@@ -1,0 +1,29 @@
+Socket Programming:
+===================
+Socket : A Socket is an End-Point of To and From (Bi-directional) Communication link between two programs (server program and client program) running on the same network.
+*Namespaces like System.net and System.Net.Sockets
+
+* How to create a Socket: specify the address family, socket type, and protocol type that the socket uses to make connections.
+1]TCP/IP based network:
+Socket s = new Socket(AddressFamily.InterNetwork,   
+   SocketType.Stream, ProtocolType.Tcp);
+2]UDP based network:
+Socket s = new Socket(AddressFamily.InterNetwork,   
+   SocketType.Dgram, ProtocolType.Udp);
+
+   Above,
+
+AddressFamily - It is the standard address families by the Socket class to resolve network addresses
+
+SocketType - The type of socket
+
+ProtocolType - This is the network protocol for communication on the Socket. It can be Tcp and Udp.
+
+We need two programs for communicating a socket application in C#. A Server Socket Program ( Server ) and a Client Socket Program ( Client ) .
+
+C# Server Socket Program: A C# Server Socket Program running on a computer has a socket that bound to a Port Number on the same computer and listening to the client's incoming requests.
+
+C# Client Socket Program: A C# Client Socket Program have to know the IP Address ( Hostname ) of the computer that the C# Server Socket Program resides and the Port Number assign for listening for client's request .
+
+Once the connection is established between Server and Client , they can communicate (read or write ) through their own sockets.
+
