@@ -1,0 +1,7 @@
+TypeScript:
+Basics:
+*TypeScript is an open-source object-oriented language developed and maintained by Microsoft
+*It is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript was developed under Anders Hejlsberg.
+
+*A TypeScript code is written in a file with .ts extension and then compiled into JavaScript using the TypeScript compiler.
+*The command tsc <filename>.ts compiles the TypeScript code into a plain JavaScript file.
