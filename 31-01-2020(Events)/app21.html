@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+$(document).ready(function()
+ {  
+    $(window).unload(function()
+	{
+        alert("Goodbye!"); 
+    });    
+});  
+</script>
+</head>
+<body>
+<p>When you click <a href="http://www.India.com/">this link</a>, or close the window, unload event will be triggered.<p>
+</body>
+</html>

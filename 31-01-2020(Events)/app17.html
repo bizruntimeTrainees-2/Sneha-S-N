@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+$(document).ready(function()
+ {  
+    $("p").mousedown(function()
+	{  
+		$("p").css("background-color", "violet");
+	});
+	$("p").mouseup(function()
+	{
+        $("p").css("background-color", "green"); 
+    });    
+});   
+</script>
+</head>
+<body>
+<p>Press down the mouse left button over this p element</p>
+</body>
+</html>

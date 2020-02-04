@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+ <meta charset="utf-8">
+ <title>keydown demo</title>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>
+ $(document).ready(function()
+ {  
+    $("input").keydown(function()
+	{  
+        $("input").css("background-color", "green");  
+    });  
+    $("input").keyup(function()
+	{  
+        $("input").css("background-color", "violet");  
+    });  
+});  
+</script>
+</head>
+<body>
+Write something: <input type="text">
+</body>
+</html>
