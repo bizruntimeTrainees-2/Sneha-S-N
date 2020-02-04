@@ -1,0 +1,10 @@
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ServerSocket.exe
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ServerSocket.deps.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ServerSocket.runtimeconfig.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ServerSocket.runtimeconfig.dev.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ServerSocket.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\ServerSocket.pdb
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ServerSocket.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ServerSocket.AssemblyInfo.cs
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ServerSocket.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\ServerSocket.pdb

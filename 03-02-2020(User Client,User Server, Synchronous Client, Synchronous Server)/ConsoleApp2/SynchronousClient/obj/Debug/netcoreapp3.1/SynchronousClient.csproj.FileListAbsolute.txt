@@ -1,0 +1,11 @@
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.exe
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.deps.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.runtimeconfig.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.runtimeconfig.dev.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\bin\Debug\netcoreapp3.1\SynchronousClient.pdb
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.AssemblyInfo.cs
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp2\SynchronousClient\obj\Debug\netcoreapp3.1\SynchronousClient.pdb

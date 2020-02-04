@@ -1,0 +1,11 @@
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\bin\Debug\netcoreapp3.1\AsynchronousClient.exe
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\bin\Debug\netcoreapp3.1\AsynchronousClient.deps.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\bin\Debug\netcoreapp3.1\AsynchronousClient.runtimeconfig.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\bin\Debug\netcoreapp3.1\AsynchronousClient.runtimeconfig.dev.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\bin\Debug\netcoreapp3.1\AsynchronousClient.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\bin\Debug\netcoreapp3.1\AsynchronousClient.pdb
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\obj\Debug\netcoreapp3.1\AsynchronousClient.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\obj\Debug\netcoreapp3.1\AsynchronousClient.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\obj\Debug\netcoreapp3.1\AsynchronousClient.AssemblyInfo.cs
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\obj\Debug\netcoreapp3.1\AsynchronousClient.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\AsynchronousClient\obj\Debug\netcoreapp3.1\AsynchronousClient.pdb

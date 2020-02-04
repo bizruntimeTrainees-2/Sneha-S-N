@@ -1,0 +1,11 @@
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\bin\Debug\netcoreapp3.1\MultiThreadServerSocket.exe
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\bin\Debug\netcoreapp3.1\MultiThreadServerSocket.deps.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\bin\Debug\netcoreapp3.1\MultiThreadServerSocket.runtimeconfig.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\bin\Debug\netcoreapp3.1\MultiThreadServerSocket.runtimeconfig.dev.json
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\bin\Debug\netcoreapp3.1\MultiThreadServerSocket.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\bin\Debug\netcoreapp3.1\MultiThreadServerSocket.pdb
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\obj\Debug\netcoreapp3.1\MultiThreadServerSocket.csprojAssemblyReference.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\obj\Debug\netcoreapp3.1\MultiThreadServerSocket.AssemblyInfoInputs.cache
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\obj\Debug\netcoreapp3.1\MultiThreadServerSocket.AssemblyInfo.cs
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\obj\Debug\netcoreapp3.1\MultiThreadServerSocket.dll
+C:\Users\Bizruntime-52\source\repos\ConsoleApp3\MultiThreadServerSocket\obj\Debug\netcoreapp3.1\MultiThreadServerSocket.pdb
