@@ -1,0 +1,53 @@
+Basics JSON:
+============
+* JSON stands for JavaScript Object Notation
+* JSON is Open Standard for exchanging data on the web.
+
+JSON DataTypes:
+===============
+1]String: it must be written in double quotes or "".
+  Ex:  
+  {
+     "name":"Sneha"
+  }
+
+  2]Numbers: must be an integeror floating point Numbers.
+   Ex:
+   {
+       "age" : 32
+   }
+
+   3]Objects:Objects as vlues in JSON must follows the same rules as JSON Objects.
+    Ex:
+    {
+        "employee":
+        {
+            "name" : "Sneha",
+            "age": : 21,
+            "city" : "New York"
+        }
+    }
+
+    4]Arrays:Values in JSON can be Arrays.
+     Ex:
+     {
+         "employee" : ["Sneha","Shweta","Veena"]
+     }
+
+     5]Boolean:can be true or false.
+      Ex:
+      {
+          "sale" : true
+      }
+
+      6]Null:Values can be null.
+      Ex:
+      {
+          "middlename":null
+      }
+
+
+
+
+
+
