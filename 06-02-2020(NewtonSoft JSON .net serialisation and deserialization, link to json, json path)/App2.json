@@ -1,0 +1,19 @@
+JObject o = JObject.FromObject(new 
+{
+    channel = new
+    {
+        title = "James Newton-King",
+        link = "http://james.newtonking.com",
+        desciption = "James Newton-King's blog.",
+        item = 
+           from p in posts
+           orderby p.title
+           select new
+           {
+               title = p.Title,
+               desciption = p.desciption,
+               link = p.link
+               category = p.Categories
+           }
+    }
+});
