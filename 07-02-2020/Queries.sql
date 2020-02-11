@@ -1,0 +1,1 @@
+INSERT INTO sales.stores VALUES(101,"A","8744557436","a@gmail.com","JAYANAGAR","KST","KARNATAKA","537482");
