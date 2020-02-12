@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+
+</head>
+<body>
+  <script>https://unpkg.com/@reactivex/rxjs@5.3.0/dist/global/Rx.js</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/6.1.0/rxjs.umd.js"></script> 
+
+  <script>
+ var observable = new rxjs.Observable.create(o => 
+   {
+     o.next('Some value');
+     o.next('Another value');     
+     o.error('oh! something went wrong');
+     o.next('One more value');
+   });
+    observable.subscribe
+    (
+      value => console.log(value),
+      error => console.log('Error : ' +error),
+    );
+  </script>
+
+</body>
+</html>
